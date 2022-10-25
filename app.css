@@ -1,0 +1,115 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    display: block;
+    align-items: center;
+}
+.sfondo{
+    background-color: rgb(0, 0, 0,0.5);
+    height: 510px;
+    width: 900px;
+    display: block;
+    align-self: center;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 13px;
+    padding-top: 90px;
+    
+}
+h1{
+    color: lime;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+#logo{
+    width: 200px;
+    height: 80px;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    
+}.Corpo{
+    background: rgba(0, 0, 0, 0.5);
+    margin-left: 180px;
+    margin-right: 180px;
+  
+  }
+  
+  
+  nav{
+    text-align: center;
+    display: block;
+    background-color: #0eee0e;
+    padding: 6px;
+    margin-left: 180px;
+    margin-right: 180px;
+    border-radius: 5px;
+  }
+  
+  .Monopattino{
+  
+    text-align: left;
+    margin-left: 200px;
+    color: white;
+  
+  }
+  
+  .carica1{
+    background-color: orange;
+    width: 35%;
+    display: inline-block;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    opacity: 0.8;
+  
+  
+  }
+  
+  .carica2{
+    background-color:#0eee0e;
+    width: 60%;
+    display: inline-block;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    opacity: 0.8;
+  
+  }
+  
+  .carica3{
+    background-color: rgb(245, 2, 2);
+    width: 10%;
+    display: inline-block;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    opacity: 0.8;
+  
+  }
+  
+  .font1{
+      font-family: monospace;
+      font-size: 20px;
+  
+  
+  }
+  
+  .font2{
+    font-family: sans-serif;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-size: 12px;
+    opacity: 0.75;
+  
+  }
+
+#corpo2{
+  margin-top: 10px;
+  
+}
